@@ -1,0 +1,10 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\bin\Debug\netcoreapp1.1\PgBookStore.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\bin\Debug\netcoreapp1.1\PgBookStore.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\bin\Debug\netcoreapp1.1\PgBookStore.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\obj\Debug\netcoreapp1.1\PgBookStore.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\bin\Debug\netcoreapp1.1\PgBookStore.db
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\bin\Debug\netcoreapp1.1\PgBookStore.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\bin\Debug\netcoreapp1.1\PgBookStore.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\obj\Debug\netcoreapp1.1\PgBookStore.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgBookStore\obj\Debug\netcoreapp1.1\PgBookStore.pdb

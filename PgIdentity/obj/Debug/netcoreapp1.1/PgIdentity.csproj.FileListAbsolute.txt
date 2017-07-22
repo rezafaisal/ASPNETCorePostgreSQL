@@ -1,0 +1,10 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\bin\Debug\netcoreapp1.1\PgIdentity.db
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\bin\Debug\netcoreapp1.1\PgIdentity.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\bin\Debug\netcoreapp1.1\PgIdentity.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\bin\Debug\netcoreapp1.1\PgIdentity.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\bin\Debug\netcoreapp1.1\PgIdentity.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\bin\Debug\netcoreapp1.1\PgIdentity.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\obj\Debug\netcoreapp1.1\PgIdentity.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\obj\Debug\netcoreapp1.1\PgIdentity.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgIdentity\obj\Debug\netcoreapp1.1\PgIdentity.pdb

@@ -1,0 +1,8 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\BelajarASPNETCoreMVC\bin\Debug\netcoreapp1.1\BelajarASPNETCoreMVC.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\BelajarASPNETCoreMVC\bin\Debug\netcoreapp1.1\BelajarASPNETCoreMVC.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\BelajarASPNETCoreMVC\bin\Debug\netcoreapp1.1\BelajarASPNETCoreMVC.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\BelajarASPNETCoreMVC\bin\Debug\netcoreapp1.1\BelajarASPNETCoreMVC.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\BelajarASPNETCoreMVC\bin\Debug\netcoreapp1.1\BelajarASPNETCoreMVC.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\BelajarASPNETCoreMVC\obj\Debug\netcoreapp1.1\BelajarASPNETCoreMVC.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\BelajarASPNETCoreMVC\obj\Debug\netcoreapp1.1\BelajarASPNETCoreMVC.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\BelajarASPNETCoreMVC\obj\Debug\netcoreapp1.1\BelajarASPNETCoreMVC.pdb

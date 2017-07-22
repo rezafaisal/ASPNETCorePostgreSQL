@@ -1,0 +1,8 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgDatabaseFirst\bin\Debug\netcoreapp1.1\PgDatabaseFirst.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgDatabaseFirst\bin\Debug\netcoreapp1.1\PgDatabaseFirst.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgDatabaseFirst\bin\Debug\netcoreapp1.1\PgDatabaseFirst.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgDatabaseFirst\bin\Debug\netcoreapp1.1\PgDatabaseFirst.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgDatabaseFirst\bin\Debug\netcoreapp1.1\PgDatabaseFirst.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgDatabaseFirst\obj\Debug\netcoreapp1.1\PgDatabaseFirst.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgDatabaseFirst\obj\Debug\netcoreapp1.1\PgDatabaseFirst.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & PostgreSQL\source\PgDatabaseFirst\obj\Debug\netcoreapp1.1\PgDatabaseFirst.pdb
